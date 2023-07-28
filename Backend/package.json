@@ -7,7 +7,7 @@
     
   },
   "scripts": {
-    "shuru":"nodemon server.js"
+    "shuru":"nodemon server"
   }
 
 }
